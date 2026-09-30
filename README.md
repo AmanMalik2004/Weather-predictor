@@ -165,5 +165,4 @@ weather-predictor/
 Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Streamlit, Open-Meteo API
 
 ## Author
-
-<<< Aman Malik >>> · [GitHub](https://github.com/AmanMalik2004/<<< AmanMalik2004 >>>)
+Aman Malik · [GitHub](https://github.com/AmanMalik2004/  AmanMalik2004
